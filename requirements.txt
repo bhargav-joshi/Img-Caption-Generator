@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+Click==7.0
+Flask
+gunicorn==19.9.0
+matplotlib
+keras
+json
+tensorflow
+pickle
